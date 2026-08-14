@@ -1,0 +1,201 @@
+destination_id,destination_name,city,state,category,best_season,rating,entry_fee,average_trip_cost,popularity_score,latitude,longitude
+1,Panaji Point,Panaji,Goa,Beach,Monsoon,3.9,69.77,6537.43,87.0,23.8156,85.1243
+2,Jaipur Valley,Jaipur,Rajasthan,Historical,Winter,3.8,252.68,5398.04,59.9,26.8466,83.8033
+3,Dalhousie Resort,Dalhousie,Himachal Pradesh,Hill Station,Summer,3.9,434.65,16382.11,58.0,20.2558,76.0583
+4,Dharamshala Valley,Dharamshala,Himachal Pradesh,Hill Station,Summer,3.6,48.36,17712.42,80.2,31.4067,89.1622
+5,Mapusa Valley,Mapusa,Goa,Beach,Monsoon,4.7,309.26,17925.6,78.9,28.4326,69.3289
+6,Dharamshala Valley,Dharamshala,Himachal Pradesh,Hill Station,Summer,4.8,433.24,10701.89,72.7,32.1892,72.717
+7,Pune Point,Pune,Maharashtra,Historical,Winter,4.4,85.57,15936.9,58.2,19.0042,96.6962
+8,Dharamshala Lake,Dharamshala,Himachal Pradesh,Hill Station,Summer,4.7,27.97,17327.04,90.3,19.6338,69.9195
+9,Pune Point,Pune,Maharashtra,Adventure,All Season,4.8,321.43,7143.07,57.0,29.6047,83.6303
+10,Coimbatore Temple,Coimbatore,Tamil Nadu,Historical,Summer,5.0,69.17,12402.74,87.8,32.972,72.4324
+11,Wayanad Resort,Wayanad,Kerala,Hill Station,Summer,4.1,297.94,12020.75,62.6,24.0436,95.3305
+12,Calangute Lake,Calangute,Goa,Beach,Monsoon,4.7,170.09,9402.5,57.9,8.0941,88.9407
+13,Dehradun Lake,Dehradun,Uttarakhand,Hill Station,Summer,3.8,456.31,18057.78,64.9,26.5295,85.6601
+14,Alleppey Lake,Alleppey,Kerala,Beach,Winter,4.4,244.3,6678.02,68.1,36.5743,91.3965
+15,Shimla Fort,Shimla,Himachal Pradesh,Hill Station,Summer,4.8,473.47,6284.8,74.3,10.0072,90.0575
+16,Kochi Point,Kochi,Kerala,Adventure,Summer,3.9,436.22,11347.07,60.6,23.6396,89.168
+17,Dharamshala Temple,Dharamshala,Himachal Pradesh,Hill Station,Summer,5.0,324.94,11571.5,75.9,11.5091,74.5162
+18,Mumbai Resort,Mumbai,Maharashtra,Pilgrimage,Summer,4.4,3.6,15617.61,52.9,9.9546,68.911
+19,Mumbai Resort,Mumbai,Maharashtra,Beach,Monsoon,4.5,107.12,6984.68,96.8,24.5602,81.7075
+20,Hampi Fort,Hampi,Karnataka,Hill Station,Summer,3.6,215.53,11353.68,73.4,29.1432,87.5276
+21,Panaji Temple,Panaji,Goa,Beach,Monsoon,4.7,54.63,7873.85,76.8,12.0653,73.3212
+22,Mysore Lake,Mysore,Karnataka,Hill Station,Summer,4.2,430.67,13254.88,52.5,36.9792,92.2448
+23,Vasco da Gama Fort,Vasco da Gama,Goa,Beach,All Season,4.2,106.87,11015.6,52.9,18.9902,96.574
+24,Haridwar Beach,Haridwar,Uttarakhand,Hill Station,Summer,4.1,478.66,19931.34,77.8,28.8338,72.4891
+25,Mussoorie Valley,Mussoorie,Uttarakhand,Hill Station,Summer,4.4,271.1,16219.63,52.9,24.9412,82.5827
+26,Munnar Resort,Munnar,Kerala,Hill Station,Summer,4.8,34.26,6019.41,93.1,19.7095,95.3063
+27,Kasauli Resort,Kasauli,Himachal Pradesh,Hill Station,Summer,3.6,40.99,14860.6,78.3,17.1747,75.5622
+28,Pune Beach,Pune,Maharashtra,Adventure,Summer,4.5,150.0,9742.66,87.6,10.1038,81.2903
+29,Panaji Resort,Panaji,Goa,Beach,Summer,4.3,66.23,10235.13,53.4,15.0842,76.2646
+30,Gokarna Point,Gokarna,Karnataka,Historical,Winter,4.5,277.3,18976.34,55.2,33.4657,75.6695
+31,Calangute Fort,Calangute,Goa,Beach,Monsoon,3.9,105.31,10143.2,84.4,32.7345,82.6569
+32,Nainital Valley,Nainital,Uttarakhand,Hill Station,Summer,4.5,414.67,5661.3,66.7,11.7938,96.4141
+33,Wayanad Resort,Wayanad,Kerala,Nature,All Season,4.3,55.94,19175.76,84.6,12.3226,69.0448
+34,Nashik Resort,Nashik,Maharashtra,Beach,All Season,3.7,154.13,18484.72,89.8,32.9604,94.0688
+35,Manali Point,Manali,Himachal Pradesh,Hill Station,Summer,3.7,390.06,18262.02,70.3,25.9992,72.482
+36,Manali Lake,Manali,Himachal Pradesh,Hill Station,Summer,4.7,440.71,5371.8,86.8,17.6334,94.9937
+37,Dharamshala Fort,Dharamshala,Himachal Pradesh,Hill Station,Summer,4.7,54.05,18082.5,92.9,14.4506,91.681
+38,Coorg Beach,Coorg,Karnataka,Beach,Summer,3.5,96.56,9923.93,93.2,36.0398,76.0946
+39,Coimbatore Beach,Coimbatore,Tamil Nadu,Hill Station,Summer,3.7,485.2,7678.52,98.1,15.6985,71.1437
+40,Chennai Point,Chennai,Tamil Nadu,Historical,All Season,4.4,255.71,10777.93,78.8,15.387,88.5548
+41,Pushkar Lake,Pushkar,Rajasthan,Historical,Winter,4.3,359.71,16129.25,83.5,18.5624,70.0292
+42,Nashik Beach,Nashik,Maharashtra,Nature,Winter,4.6,150.16,9639.27,70.4,19.6696,76.574
+43,Kochi Temple,Kochi,Kerala,Nature,All Season,4.5,451.4,14232.72,65.0,23.8902,68.0118
+44,Mussoorie Temple,Mussoorie,Uttarakhand,Hill Station,Summer,4.7,303.33,9833.74,72.1,27.5932,82.824
+45,Munnar Beach,Munnar,Kerala,Pilgrimage,Monsoon,3.6,476.0,8523.03,65.5,31.3903,72.2733
+46,Udaipur Temple,Udaipur,Rajasthan,Historical,Winter,4.4,384.24,11831.24,94.3,24.6945,88.832
+47,Madurai Temple,Madurai,Tamil Nadu,Beach,Summer,4.5,2.77,16264.47,88.5,11.091,80.3292
+48,Trivandrum Temple,Trivandrum,Kerala,Hill Station,Summer,4.3,458.74,6820.38,56.7,21.4747,83.4028
+49,Lonavala Resort,Lonavala,Maharashtra,Nature,All Season,4.7,273.94,18458.12,87.2,21.7656,75.5166
+50,Dharamshala Lake,Dharamshala,Himachal Pradesh,Hill Station,Summer,4.7,242.3,8588.69,72.0,28.6928,74.8003
+51,Mahabaleshwar Resort,Mahabaleshwar,Maharashtra,Hill Station,Summer,3.7,115.63,15409.25,85.3,9.8626,79.8204
+52,Hampi Valley,Hampi,Karnataka,Beach,All Season,4.1,384.9,19190.93,51.0,33.539,84.695
+53,Bangalore Beach,Bangalore,Karnataka,Historical,All Season,4.8,476.72,11285.32,87.4,23.8378,85.4943
+54,Dalhousie Fort,Dalhousie,Himachal Pradesh,Hill Station,Summer,3.9,242.82,10832.86,83.4,31.1461,89.0013
+55,Mysore Resort,Mysore,Karnataka,Pilgrimage,Winter,4.9,295.95,14945.0,54.2,20.4298,93.1387
+56,Munnar Beach,Munnar,Kerala,Adventure,Monsoon,3.8,163.42,16418.45,69.0,29.8083,92.1258
+57,Nainital Temple,Nainital,Uttarakhand,Hill Station,Summer,3.5,269.71,19998.62,67.5,26.8542,90.6558
+58,Jaipur Fort,Jaipur,Rajasthan,Historical,Winter,3.8,10.19,7285.74,56.3,27.4143,84.3551
+59,Dalhousie Point,Dalhousie,Himachal Pradesh,Hill Station,Summer,3.9,184.45,14088.39,98.2,28.8324,90.556
+60,Alleppey Valley,Alleppey,Kerala,Pilgrimage,Winter,4.9,287.9,18620.39,68.8,35.3026,73.7516
+61,Shimla Point,Shimla,Himachal Pradesh,Hill Station,Summer,4.7,425.15,14006.17,56.1,36.5315,90.6964
+62,Nashik Temple,Nashik,Maharashtra,Nature,Monsoon,3.6,323.77,5189.78,71.0,22.2158,80.5722
+63,Lonavala Point,Lonavala,Maharashtra,Beach,All Season,3.8,260.87,14756.86,80.8,34.6689,90.4646
+64,Hampi Lake,Hampi,Karnataka,Nature,Monsoon,4.0,122.75,19019.33,63.9,21.0733,89.7638
+65,Chennai Valley,Chennai,Tamil Nadu,Adventure,Monsoon,3.8,106.06,16967.49,67.0,33.5293,88.3343
+66,Dehradun Valley,Dehradun,Uttarakhand,Hill Station,Summer,4.3,95.53,8620.34,70.3,24.1001,74.9694
+67,Hampi Temple,Hampi,Karnataka,Hill Station,Summer,3.6,110.8,15376.81,65.3,24.8651,81.7246
+68,Lonavala Point,Lonavala,Maharashtra,Pilgrimage,Monsoon,4.0,226.87,9599.34,61.5,28.9172,77.1509
+69,Kochi Fort,Kochi,Kerala,Nature,All Season,3.9,294.79,16403.12,79.8,36.4348,92.1462
+70,Mussoorie Beach,Mussoorie,Uttarakhand,Hill Station,Summer,3.8,7.07,13012.03,63.7,36.2546,84.0474
+71,Wayanad Valley,Wayanad,Kerala,Hill Station,Summer,4.4,234.7,11607.03,59.2,9.4899,95.2908
+72,Bangalore Lake,Bangalore,Karnataka,Hill Station,Summer,4.1,37.04,14441.69,52.7,12.3267,84.3223
+73,Nainital Fort,Nainital,Uttarakhand,Hill Station,Summer,3.7,382.22,14094.76,89.5,14.5449,83.1546
+74,Hampi Beach,Hampi,Karnataka,Pilgrimage,All Season,4.0,310.51,14144.46,87.0,35.4801,74.0258
+75,Dharamshala Point,Dharamshala,Himachal Pradesh,Hill Station,Summer,3.6,119.93,13279.88,57.8,19.847,87.9918
+76,Coorg Valley,Coorg,Karnataka,Beach,Monsoon,4.6,351.49,11810.47,84.4,34.7934,90.847
+77,Dalhousie Valley,Dalhousie,Himachal Pradesh,Hill Station,Summer,4.3,323.82,18626.17,91.3,10.0709,72.8118
+78,Dehradun Point,Dehradun,Uttarakhand,Hill Station,Summer,4.7,460.6,11587.3,73.4,16.8186,79.6727
+79,Dehradun Resort,Dehradun,Uttarakhand,Hill Station,Summer,4.2,40.22,5597.91,71.6,17.3473,75.2607
+80,Vasco da Gama Point,Vasco da Gama,Goa,Beach,Winter,5.0,336.14,9042.67,52.0,29.9318,81.6445
+81,Coorg Fort,Coorg,Karnataka,Pilgrimage,All Season,4.5,245.86,6368.64,67.4,17.6659,87.4339
+82,Alleppey Temple,Alleppey,Kerala,Nature,All Season,3.9,472.6,17203.49,77.5,21.19,77.121
+83,Mumbai Lake,Mumbai,Maharashtra,Adventure,Winter,4.5,271.3,11198.71,59.4,18.4916,89.9369
+84,Bangalore Fort,Bangalore,Karnataka,Historical,Summer,4.9,219.06,15473.75,56.1,36.2213,85.6573
+85,Manali Beach,Manali,Himachal Pradesh,Hill Station,Summer,4.3,276.13,6398.14,99.6,34.475,81.382
+86,Vasco da Gama Temple,Vasco da Gama,Goa,Beach,Monsoon,4.3,136.71,17520.86,99.0,15.0682,83.9867
+87,Kodaikanal Resort,Kodaikanal,Tamil Nadu,Pilgrimage,Summer,4.8,138.12,16850.09,70.7,35.0932,82.7244
+88,Jodhpur Point,Jodhpur,Rajasthan,Historical,Winter,3.9,293.47,19983.53,74.5,12.3093,83.6188
+89,Mahabaleshwar Resort,Mahabaleshwar,Maharashtra,Pilgrimage,All Season,4.2,160.89,7829.79,84.9,24.5821,74.7733
+90,Ooty Beach,Ooty,Tamil Nadu,Nature,All Season,4.6,405.7,10791.18,83.2,31.8017,96.4437
+91,Bangalore Fort,Bangalore,Karnataka,Pilgrimage,Monsoon,4.8,437.1,11604.59,76.3,21.2509,88.9509
+92,Kodaikanal Valley,Kodaikanal,Tamil Nadu,Adventure,Monsoon,4.0,346.35,14747.55,92.6,32.7179,92.9209
+93,Chennai Point,Chennai,Tamil Nadu,Nature,All Season,4.8,17.95,6026.31,81.6,34.7069,96.9254
+94,Mapusa Valley,Mapusa,Goa,Beach,Winter,4.2,347.0,18551.36,52.3,31.0882,76.5077
+95,Lonavala Fort,Lonavala,Maharashtra,Beach,All Season,4.3,396.26,7549.75,53.9,33.2543,85.9716
+96,Dalhousie Resort,Dalhousie,Himachal Pradesh,Hill Station,Summer,3.7,230.57,8809.66,62.8,8.2725,91.3344
+97,Dehradun Fort,Dehradun,Uttarakhand,Hill Station,Summer,3.6,472.62,19814.78,65.0,35.8988,88.0191
+98,Coorg Fort,Coorg,Karnataka,Adventure,All Season,3.7,190.68,10384.39,64.8,28.2791,68.6362
+99,Chennai Valley,Chennai,Tamil Nadu,Pilgrimage,Winter,4.9,372.59,17492.58,95.1,30.4965,74.6734
+100,Pune Point,Pune,Maharashtra,Beach,Monsoon,4.5,360.46,14887.72,91.9,26.2192,94.1987
+101,Jodhpur Lake,Jodhpur,Rajasthan,Historical,Winter,4.2,289.79,15985.4,54.5,16.5582,89.6769
+102,Kochi Fort,Kochi,Kerala,Pilgrimage,Monsoon,4.3,456.74,17457.09,62.8,31.916,81.9736
+103,Rishikesh Lake,Rishikesh,Uttarakhand,Hill Station,Summer,3.7,481.45,7111.36,98.3,32.9441,89.0023
+104,Coimbatore Beach,Coimbatore,Tamil Nadu,Hill Station,Summer,4.7,6.96,13048.58,72.7,27.512,87.4979
+105,Chennai Valley,Chennai,Tamil Nadu,Nature,Summer,4.2,309.77,19147.54,66.4,25.6924,86.7819
+106,Coorg Point,Coorg,Karnataka,Adventure,Winter,3.7,473.13,9565.47,74.6,10.8186,93.7305
+107,Wayanad Temple,Wayanad,Kerala,Historical,All Season,4.4,363.3,18281.21,82.7,32.1771,85.8539
+108,Nainital Point,Nainital,Uttarakhand,Hill Station,Summer,4.1,221.69,19258.33,92.8,10.8813,87.8847
+109,Mumbai Temple,Mumbai,Maharashtra,Historical,Summer,5.0,474.51,17362.87,54.6,14.1511,86.5453
+110,Jaipur Lake,Jaipur,Rajasthan,Historical,Winter,4.0,494.41,16804.67,60.3,32.0647,84.072
+111,Manali Beach,Manali,Himachal Pradesh,Hill Station,Summer,4.7,394.32,13939.72,63.9,36.5368,96.6383
+112,Mussoorie Valley,Mussoorie,Uttarakhand,Hill Station,Summer,4.5,12.89,5222.9,89.5,14.9,77.3894
+113,Alleppey Valley,Alleppey,Kerala,Beach,All Season,4.3,372.83,12143.69,88.9,22.8839,71.1626
+114,Kasauli Valley,Kasauli,Himachal Pradesh,Hill Station,Summer,4.6,454.38,14883.55,65.1,26.6569,68.9034
+115,Hampi Temple,Hampi,Karnataka,Nature,Winter,4.2,454.85,6102.36,54.0,25.6406,69.9048
+116,Dehradun Point,Dehradun,Uttarakhand,Hill Station,Summer,4.4,356.08,10713.57,79.9,16.552,82.661
+117,Ooty Lake,Ooty,Tamil Nadu,Nature,Winter,4.8,325.46,16534.44,86.0,14.2357,81.0951
+118,Dalhousie Beach,Dalhousie,Himachal Pradesh,Hill Station,Summer,4.7,199.37,15944.19,65.6,17.0632,75.3918
+119,Wayanad Valley,Wayanad,Kerala,Hill Station,Summer,4.7,46.62,6448.47,86.9,31.5413,84.1348
+120,Mumbai Temple,Mumbai,Maharashtra,Historical,All Season,4.8,360.53,19525.98,80.0,18.1977,84.7596
+121,Manali Point,Manali,Himachal Pradesh,Hill Station,Summer,4.2,423.64,10251.71,77.8,11.3317,76.0785
+122,Dalhousie Lake,Dalhousie,Himachal Pradesh,Hill Station,Summer,4.3,383.72,14325.86,83.7,24.1455,85.6609
+123,Nainital Fort,Nainital,Uttarakhand,Hill Station,Summer,3.9,381.2,18823.06,67.6,13.2608,72.1543
+124,Ooty Fort,Ooty,Tamil Nadu,Nature,Winter,3.6,265.24,10642.92,72.7,12.5649,77.0375
+125,Nashik Resort,Nashik,Maharashtra,Hill Station,Summer,4.8,77.79,16316.54,52.5,10.3659,80.8503
+126,Madurai Resort,Madurai,Tamil Nadu,Adventure,All Season,3.9,377.47,6707.26,71.5,16.2141,87.6761
+127,Gokarna Point,Gokarna,Karnataka,Historical,Winter,3.8,492.22,5821.73,60.2,35.4144,90.2531
+128,Rishikesh Beach,Rishikesh,Uttarakhand,Hill Station,Summer,3.7,248.69,11459.83,56.5,23.4449,74.6732
+129,Mumbai Temple,Mumbai,Maharashtra,Nature,Winter,4.2,229.88,6167.94,65.7,20.4492,79.7283
+130,Chennai Valley,Chennai,Tamil Nadu,Adventure,Winter,4.9,85.94,19214.21,73.0,27.9987,78.4937
+131,Ooty Fort,Ooty,Tamil Nadu,Adventure,All Season,4.3,197.88,9654.12,67.0,17.659,72.8758
+132,Calangute Resort,Calangute,Goa,Beach,Summer,4.9,174.69,15910.69,90.9,31.6361,74.8518
+133,Alleppey Fort,Alleppey,Kerala,Beach,Summer,4.6,327.75,7657.19,88.6,22.3294,89.8789
+134,Gokarna Point,Gokarna,Karnataka,Nature,Monsoon,4.8,313.61,7264.36,53.4,20.824,76.7818
+135,Dehradun Valley,Dehradun,Uttarakhand,Hill Station,Summer,4.0,37.1,11926.14,51.9,18.6934,76.3252
+136,Calangute Resort,Calangute,Goa,Beach,All Season,4.2,277.16,16877.27,94.8,21.0423,91.4847
+137,Dharamshala Resort,Dharamshala,Himachal Pradesh,Hill Station,Summer,4.2,75.43,5928.11,55.2,34.0747,77.9597
+138,Calangute Point,Calangute,Goa,Beach,Summer,3.6,353.81,19864.79,76.2,25.6844,78.553
+139,Haridwar Temple,Haridwar,Uttarakhand,Hill Station,Summer,4.7,339.45,5785.48,81.5,17.7048,77.561
+140,Chennai Beach,Chennai,Tamil Nadu,Nature,Summer,4.0,291.37,7121.43,67.5,36.0632,88.2559
+141,Kodaikanal Resort,Kodaikanal,Tamil Nadu,Nature,Winter,4.0,188.34,16874.93,90.7,27.4334,92.0398
+142,Mapusa Resort,Mapusa,Goa,Beach,Monsoon,3.5,154.43,19267.54,67.1,30.2185,73.5682
+143,Kochi Valley,Kochi,Kerala,Historical,Winter,4.3,269.89,16079.66,76.3,27.1959,93.4154
+144,Trivandrum Temple,Trivandrum,Kerala,Beach,Summer,3.8,346.42,14371.11,95.1,28.9143,69.2671
+145,Pune Temple,Pune,Maharashtra,Pilgrimage,Monsoon,4.6,391.9,8510.04,62.0,36.0023,90.7467
+146,Dharamshala Point,Dharamshala,Himachal Pradesh,Hill Station,Summer,4.9,492.22,11925.2,64.1,19.0743,83.2963
+147,Kochi Lake,Kochi,Kerala,Pilgrimage,Summer,4.8,26.09,12208.86,68.6,35.0945,88.6306
+148,Margao Valley,Margao,Goa,Beach,Summer,3.9,452.65,7210.23,71.9,35.446,74.4391
+149,Coorg Valley,Coorg,Karnataka,Adventure,Winter,4.1,186.98,10792.49,54.1,14.5116,77.2419
+150,Margao Lake,Margao,Goa,Beach,Summer,3.7,143.44,17446.42,84.8,12.025,88.4605
+151,Gokarna Valley,Gokarna,Karnataka,Hill Station,Summer,3.5,107.83,7242.79,97.0,25.6575,80.2744
+152,Mussoorie Beach,Mussoorie,Uttarakhand,Hill Station,Summer,3.7,119.22,14584.28,81.1,9.8214,92.2639
+153,Gokarna Resort,Gokarna,Karnataka,Hill Station,Summer,4.4,287.52,15778.16,64.6,8.0454,78.2317
+154,Kodaikanal Point,Kodaikanal,Tamil Nadu,Nature,Winter,4.3,180.3,19301.06,77.2,30.806,82.7211
+155,Jaisalmer Lake,Jaisalmer,Rajasthan,Historical,Winter,4.2,317.84,19715.59,62.7,8.471,90.8671
+156,Pune Point,Pune,Maharashtra,Nature,Winter,4.7,367.59,9987.78,52.2,23.8344,91.5918
+157,Wayanad Point,Wayanad,Kerala,Adventure,Summer,4.7,31.55,16642.86,72.9,16.5098,69.2704
+158,Shimla Beach,Shimla,Himachal Pradesh,Hill Station,Summer,4.9,257.69,19836.84,77.2,15.3461,89.8454
+159,Dharamshala Beach,Dharamshala,Himachal Pradesh,Hill Station,Summer,4.8,23.9,14835.97,63.7,31.1809,80.6716
+160,Madurai Temple,Madurai,Tamil Nadu,Historical,Summer,4.2,248.76,18864.66,76.0,31.2333,89.0854
+161,Mapusa Resort,Mapusa,Goa,Beach,Summer,4.3,160.61,6201.03,83.0,16.8884,85.476
+162,Kodaikanal Point,Kodaikanal,Tamil Nadu,Adventure,Monsoon,4.2,363.41,18674.11,80.7,20.6133,86.5446
+163,Jaipur Point,Jaipur,Rajasthan,Historical,Winter,4.5,181.66,17016.44,84.0,35.6309,72.1406
+164,Bangalore Fort,Bangalore,Karnataka,Hill Station,Summer,3.9,322.58,10432.26,97.5,8.9392,72.4497
+165,Coorg Beach,Coorg,Karnataka,Adventure,Winter,4.4,264.73,10970.51,82.5,15.2387,71.29
+166,Wayanad Resort,Wayanad,Kerala,Adventure,Winter,3.9,130.14,11694.1,99.8,16.2817,94.5779
+167,Mysore Valley,Mysore,Karnataka,Beach,Winter,4.2,449.34,11676.67,54.4,27.7759,92.5201
+168,Mahabaleshwar Point,Mahabaleshwar,Maharashtra,Hill Station,Summer,4.3,145.18,9499.35,57.9,28.5773,88.3064
+169,Alleppey Resort,Alleppey,Kerala,Beach,Winter,5.0,396.03,8551.04,74.7,18.466,84.596
+170,Gokarna Fort,Gokarna,Karnataka,Pilgrimage,Winter,3.6,199.08,15754.0,73.9,19.9131,79.8736
+171,Vasco da Gama Beach,Vasco da Gama,Goa,Beach,Winter,4.2,340.05,10167.72,93.9,30.6276,86.554
+172,Kochi Temple,Kochi,Kerala,Pilgrimage,Winter,4.7,259.05,9561.87,58.1,35.1074,74.5386
+173,Nainital Beach,Nainital,Uttarakhand,Hill Station,Summer,3.8,478.18,9116.77,81.3,25.8184,70.7094
+174,Trivandrum Resort,Trivandrum,Kerala,Beach,Summer,4.5,360.32,14077.08,92.1,24.3449,91.9319
+175,Jaipur Valley,Jaipur,Rajasthan,Historical,Winter,4.9,385.51,8969.84,60.5,24.592,85.9251
+176,Jaisalmer Point,Jaisalmer,Rajasthan,Historical,Winter,4.3,320.95,9531.41,62.2,31.4131,79.7767
+177,Bangalore Point,Bangalore,Karnataka,Hill Station,Summer,3.7,207.81,11966.63,67.0,12.1664,92.9831
+178,Mahabaleshwar Temple,Mahabaleshwar,Maharashtra,Beach,Monsoon,4.3,53.09,8626.07,56.1,21.0383,72.0855
+179,Jodhpur Temple,Jodhpur,Rajasthan,Historical,Winter,4.8,209.07,19440.29,95.1,31.5909,95.0788
+180,Pune Lake,Pune,Maharashtra,Beach,All Season,5.0,233.41,18186.13,74.9,10.6114,79.404
+181,Mysore Fort,Mysore,Karnataka,Pilgrimage,Monsoon,3.6,140.68,13962.78,92.1,27.5031,76.2867
+182,Jaipur Temple,Jaipur,Rajasthan,Historical,Winter,3.7,132.24,10486.66,70.2,9.312,69.4836
+183,Dharamshala Resort,Dharamshala,Himachal Pradesh,Hill Station,Summer,3.9,193.17,11755.32,77.5,31.934,86.074
+184,Vasco da Gama Valley,Vasco da Gama,Goa,Beach,All Season,4.1,493.39,13367.48,68.3,12.1838,85.4714
+185,Coimbatore Valley,Coimbatore,Tamil Nadu,Hill Station,Summer,3.6,356.8,17059.49,76.0,12.3193,93.9008
+186,Alleppey Resort,Alleppey,Kerala,Historical,Summer,4.1,308.25,17639.03,79.7,22.7121,82.7817
+187,Gokarna Beach,Gokarna,Karnataka,Adventure,Winter,4.1,336.9,19698.47,79.2,31.1059,89.0344
+188,Pushkar Temple,Pushkar,Rajasthan,Historical,Winter,3.9,327.8,19580.85,78.9,14.5988,69.4893
+189,Mysore Resort,Mysore,Karnataka,Nature,All Season,3.7,340.36,5473.56,97.4,11.187,68.5492
+190,Lonavala Fort,Lonavala,Maharashtra,Adventure,Summer,4.1,387.49,18807.81,93.6,29.3393,69.8062
+191,Trivandrum Fort,Trivandrum,Kerala,Pilgrimage,Monsoon,5.0,239.19,10652.37,97.8,21.3302,83.4607
+192,Mahabaleshwar Resort,Mahabaleshwar,Maharashtra,Adventure,Summer,4.9,139.5,9477.49,97.1,36.4855,90.3641
+193,Dalhousie Beach,Dalhousie,Himachal Pradesh,Hill Station,Summer,4.2,280.24,19017.28,86.1,16.3459,84.6308
+194,Madurai Lake,Madurai,Tamil Nadu,Historical,Summer,3.9,143.82,15712.12,67.3,20.8289,75.4369
+195,Mysore Fort,Mysore,Karnataka,Pilgrimage,Monsoon,4.9,348.09,7059.09,80.8,25.0181,75.0313
+196,Manali Valley,Manali,Himachal Pradesh,Hill Station,Summer,3.7,165.15,12086.06,84.1,11.9865,95.971
+197,Wayanad Point,Wayanad,Kerala,Adventure,All Season,4.5,377.96,9308.68,64.3,9.7157,90.293
+198,Kasauli Point,Kasauli,Himachal Pradesh,Hill Station,Summer,4.6,468.33,18698.45,58.8,33.5851,73.0979
+199,Jaisalmer Lake,Jaisalmer,Rajasthan,Historical,Winter,4.2,468.3,19431.97,96.3,33.4256,68.2687
+200,Margao Beach,Margao,Goa,Beach,All Season,5.0,271.65,12408.69,96.9,32.6807,81.5726
